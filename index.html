@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Framed by RK</title>
+<meta name="description" content="Luxury custom photo frames and keepsakes by Framed by RK.">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Inter:wght@300;400;500;700&family=Allura&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="edit-help">
+  <b>Editable website:</b> change all text, prices, photos and links in <code>content.json</code>. Replace images in <code>assets</code>.
+</div>
+<nav>
+  <img id="navLogo" src="assets/logo.png" alt="Framed by RK">
+  <div><a href="#gallery">Gallery</a><a href="#products">Products</a><a href="#build">Build</a><a href="#faq">FAQ</a></div>
+  <a id="navOrder" class="mini-btn" target="_blank">Order</a>
+</nav>
+
+<header class="hero">
+  <div class="hero-logo"><img src="assets/logo.png" alt=""></div>
+  <div class="hero-copy">
+    <p class="eyebrow" id="heroEyebrow"></p>
+    <h1 id="heroHeadline"></h1>
+    <p id="heroSub"></p>
+    <div class="actions"><a id="heroOrder" class="btn" target="_blank"></a><a class="ghost" href="#gallery" id="heroSecondary"></a></div>
+  </div>
+</header>
+
+<section class="intro"><p class="script" id="introScript"></p><p id="introBody"></p></section>
+
+<section id="gallery" class="gallery">
+  <div class="head"><p class="eyebrow">Gallery</p><h2>Real frames. Real stories.</h2><p>Use your real framed products, not stock images.</p></div>
+  <div class="masonry" id="galleryGrid"></div>
+</section>
+
+<section id="products">
+  <div class="head"><p class="eyebrow">Featured Products</p><h2>Choose the moment you want to preserve</h2></div>
+  <div class="product-grid" id="productGrid"></div>
+</section>
+
+<section id="build" class="build">
+  <div class="head"><p class="eyebrow">Build Your Frame</p><h2>Make it personal</h2></div>
+  <div class="builder">
+    <div><h3>1. Choose a theme</h3><p>Graduation, Vision Board, Friendship, Birthday, Faith, Wedding, Memorial or Custom.</p></div>
+    <div><h3>2. Choose your details</h3><p>Frame colour, size, names, dates, quotes, stickers and layout direction.</p></div>
+    <div><h3>3. Submit photos</h3><p>Use the order form to send your photos and any special requests.</p></div>
+  </div>
+</section>
+
+<section class="why"><div class="head"><p class="eyebrow">Why Framed by RK</p><h2>Luxury keepsakes with heart</h2></div>
+<div class="why-grid"><div>Handcrafted</div><div>Personalised</div><div>Gift-ready</div><div>Thoughtful details</div><div>Fast communication</div><div>Beautiful quality</div></div></section>
+
+<section><div class="head"><p class="eyebrow">Testimonials</p><h2>What customers say</h2></div><div class="testimonials" id="testimonials"></div></section>
+
+<section id="faq" class="faq"><div class="head"><p class="eyebrow">FAQ</p><h2>Questions before ordering</h2></div><div id="faqList"></div></section>
+
+<section class="cta"><h2>Ready to frame your story?</h2><p>Start your custom order today.</p><a id="ctaOrder" class="btn dark" target="_blank">Start Your Frame</a></section>
+
+<footer><img src="assets/logo.png" alt=""><p id="footerText"></p></footer>
+
+<div class="lightbox" id="lightbox" onclick="this.classList.remove('show')"><img id="lightboxImg"></div>
+<script src="script.js"></script>
+</body>
+</html>

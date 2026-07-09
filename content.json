@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "name": "Framed by RK",
+    "tagline": "Turning Moments Into Heirlooms",
+    "navy": "#020B4A",
+    "gold": "#D4AF37",
+    "ivory": "#F8F5EF",
+    "orderLink": "https://docs.google.com/forms/d/e/1FAIpQLSeqADGhaelWzEDR5zpgFZEbZioT5aXwkIz_0IpKOviBLIKJjQ/viewform",
+    "instagram": "@framedbyrk",
+    "tiktok": "@framedbyrk",
+    "email": "hello@framedbyrk.com",
+    "whatsapp": ""
+  },
+  "hero": {
+    "eyebrow": "Bespoke Frames & Keepsakes",
+    "headline": "Turning Moments Into Heirlooms",
+    "subheading": "Every frame is handcrafted to preserve the people, milestones and memories that matter most.",
+    "primaryButton": "Start Your Frame",
+    "secondaryButton": "Browse Gallery"
+  },
+  "intro": {
+    "script": "Made by hand, made to be kept.",
+    "body": "Framed by RK turns your favourite photos, quotes, dates, certificates and memories into personalised frames that feel thoughtful, beautiful and gift-ready."
+  },
+  "gallery": [
+    {
+      "title": "Faith Vision Board",
+      "category": "Vision Board",
+      "image": "assets/vision-board-wall.png"
+    },
+    {
+      "title": "Graduation Collage",
+      "category": "Graduation",
+      "image": "assets/graduation-frame-wall.png"
+    },
+    {
+      "title": "Friendship Frame",
+      "category": "Friendship",
+      "image": "assets/friendship-collage.jpg"
+    },
+    {
+      "title": "2025 Vision Board",
+      "category": "Faith & Goals",
+      "image": "assets/faith-vision-frame.jpg"
+    },
+    {
+      "title": "Graduation Keepsake",
+      "category": "Custom Date",
+      "image": "assets/graduation-keepsake.jpg"
+    },
+    {
+      "title": "Black Grad Frame",
+      "category": "Gold Lettering",
+      "image": "assets/black-graduation-frame.jpg"
+    }
+  ],
+  "products": [
+    {
+      "name": "Graduation Frame",
+      "price": "From \u00a335",
+      "description": "A personalised graduation keepsake with photos, dates, colours and school details.",
+      "image": "assets/black-graduation-frame.jpg"
+    },
+    {
+      "name": "Vision Board",
+      "price": "From \u00a330",
+      "description": "A framed visual reminder of goals, faith, prayers and the future you are building.",
+      "image": "assets/vision-board-wall.png"
+    },
+    {
+      "name": "Friendship Frame",
+      "price": "From \u00a328",
+      "description": "A sentimental collage for birthdays, best friends, sisters and special seasons.",
+      "image": "assets/friendship-collage.jpg"
+    },
+    {
+      "name": "Faith Frame",
+      "price": "From \u00a330",
+      "description": "Scripture, prayers, affirmations and memories arranged into a beautiful keepsake.",
+      "image": "assets/faith-vision-frame.jpg"
+    },
+    {
+      "name": "Memory Frame",
+      "price": "Custom quote",
+      "description": "A thoughtful piece for family, memorials, anniversaries and meaningful moments.",
+      "image": "assets/graduation-keepsake.jpg"
+    },
+    {
+      "name": "Custom Keepsake",
+      "price": "Custom quote",
+      "description": "Tell us the occasion and we will design a one-of-one frame around your story.",
+      "image": "assets/graduation-frame-wall.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "It was so personal and beautifully made. The perfect graduation gift.",
+      "name": "Customer"
+    },
+    {
+      "quote": "The details made it feel so thoughtful. I cried when I opened it.",
+      "name": "Customer"
+    },
+    {
+      "quote": "Such a beautiful way to keep memories instead of leaving them on my phone.",
+      "name": "Customer"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I order?",
+      "answer": "Click Start Your Frame and complete the order form with your photos, theme and details."
+    },
+    {
+      "question": "Can I choose colours?",
+      "answer": "Yes. You can choose frame colour, text colour, theme, stickers and personal details."
+    },
+    {
+      "question": "How long does it take?",
+      "answer": "Turnaround depends on the size and design, but you will receive a timeline after your request."
+    },
+    {
+      "question": "Can I request something custom?",
+      "answer": "Yes. Custom ideas are welcome. Share the story and we will help design the frame."
+    }
+  ]
+}
