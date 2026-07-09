@@ -2,94 +2,63 @@
   "brand": {
     "name": "Framed by RK",
     "tagline": "Turning Moments Into Heirlooms",
-    "navy": "#020B4A",
-    "gold": "#D4AF37",
-    "ivory": "#F8F5EF",
     "orderLink": "https://docs.google.com/forms/d/e/1FAIpQLSeqADGhaelWzEDR5zpgFZEbZioT5aXwkIz_0IpKOviBLIKJjQ/viewform",
     "instagram": "@framedbyrk",
     "tiktok": "@framedbyrk",
-    "email": "hello@framedbyrk.com",
-    "whatsapp": ""
+    "email": "hello@framedbyrk.com"
   },
   "hero": {
     "eyebrow": "Bespoke Frames & Keepsakes",
-    "headline": "Turning Moments Into Heirlooms",
-    "subheading": "Every frame is handcrafted to preserve the people, milestones and memories that matter most.",
-    "primaryButton": "Start Your Frame",
-    "secondaryButton": "Browse Gallery"
+    "title": "Turning Moments Into Heirlooms",
+    "subtitle": "Handcrafted frames that preserve the people, milestones, faith moments and memories that matter most.",
+    "button": "Start Your Frame"
   },
   "intro": {
     "script": "Made by hand, made to be kept.",
     "body": "Framed by RK turns your favourite photos, quotes, dates, certificates and memories into personalised frames that feel thoughtful, beautiful and gift-ready."
   },
-  "gallery": [
+  "products": [
     {
-      "title": "Faith Vision Board",
-      "category": "Vision Board",
-      "image": "assets/vision-board-wall.png"
+      "title": "Graduation Frame",
+      "category": "Graduation",
+      "price": "From \u00a335",
+      "image": "black-graduation-frame.jpg",
+      "description": "A personalised graduation keepsake with photos, dates, school colours and custom details."
     },
     {
-      "title": "Graduation Collage",
-      "category": "Graduation",
-      "image": "assets/graduation-frame-wall.png"
+      "title": "Vision Board",
+      "category": "Vision Board",
+      "price": "From \u00a330",
+      "image": "vision-board-wall.png",
+      "description": "A framed reminder of your goals, faith, prayers and the future you are building."
     },
     {
       "title": "Friendship Frame",
       "category": "Friendship",
-      "image": "assets/friendship-collage.jpg"
+      "price": "From \u00a328",
+      "image": "friendship-collage.jpg",
+      "description": "A sentimental photo collage for best friends, sisters, birthdays and special seasons."
     },
     {
-      "title": "2025 Vision Board",
-      "category": "Faith & Goals",
-      "image": "assets/faith-vision-frame.jpg"
+      "title": "Faith Frame",
+      "category": "Faith",
+      "price": "From \u00a330",
+      "image": "faith-vision-frame.jpg",
+      "description": "Scripture, prayers, affirmations and memories arranged into a beautiful keepsake."
     },
     {
       "title": "Graduation Keepsake",
-      "category": "Custom Date",
-      "image": "assets/graduation-keepsake.jpg"
-    },
-    {
-      "title": "Black Grad Frame",
-      "category": "Gold Lettering",
-      "image": "assets/black-graduation-frame.jpg"
-    }
-  ],
-  "products": [
-    {
-      "name": "Graduation Frame",
-      "price": "From \u00a335",
-      "description": "A personalised graduation keepsake with photos, dates, colours and school details.",
-      "image": "assets/black-graduation-frame.jpg"
-    },
-    {
-      "name": "Vision Board",
-      "price": "From \u00a330",
-      "description": "A framed visual reminder of goals, faith, prayers and the future you are building.",
-      "image": "assets/vision-board-wall.png"
-    },
-    {
-      "name": "Friendship Frame",
-      "price": "From \u00a328",
-      "description": "A sentimental collage for birthdays, best friends, sisters and special seasons.",
-      "image": "assets/friendship-collage.jpg"
-    },
-    {
-      "name": "Faith Frame",
-      "price": "From \u00a330",
-      "description": "Scripture, prayers, affirmations and memories arranged into a beautiful keepsake.",
-      "image": "assets/faith-vision-frame.jpg"
-    },
-    {
-      "name": "Memory Frame",
+      "category": "Graduation",
       "price": "Custom quote",
-      "description": "A thoughtful piece for family, memorials, anniversaries and meaningful moments.",
-      "image": "assets/graduation-keepsake.jpg"
+      "image": "graduation-keepsake.jpg",
+      "description": "A statement frame with photos, ceremony details, dates and gold personalisation."
     },
     {
-      "name": "Custom Keepsake",
+      "title": "Custom Memory Frame",
+      "category": "Custom",
       "price": "Custom quote",
-      "description": "Tell us the occasion and we will design a one-of-one frame around your story.",
-      "image": "assets/graduation-frame-wall.png"
+      "image": "graduation-frame-wall.png",
+      "description": "Tell us the occasion and we will design a one-of-one frame around your story."
     }
   ],
   "testimonials": [
